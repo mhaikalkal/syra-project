@@ -1,0 +1,130 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.bg-red {
+    background-color: rgb(230, 41, 8);
+}
+
+/* Link Navbar */
+a.nav-link {
+    color: #ffffff !important;
+}
+
+a.nav-link:hover {
+    background: #dcdde1;
+    color: red !important;
+}
+
+a.nav-link.active {
+    font-weight: bold !important;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.active {
+    font-weight: bold;
+}
+
+.navbar-brand {
+    color: red !important;
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+
+.norm {
+    color: white !important;
+}
+
+/* Jumbotron */
+.jumbo {
+    z-index: 0;
+    position: relative;
+    background: url(../images/bg/Artboard_1.jpg) no-repeat;
+    background-size: 100% 100%;
+    min-height: 700px;
+}
+
+/* Services */
+.services {
+    position: relative;
+    background: url(../images/bg/Artboard_2.jpg) no-repeat;
+    background-size: 100% 100%;
+    min-height: 700px;
+}
+
+/* Text */
+.normal {
+    font-size: 1.3rem;
+}
+
+.brand-services {
+    color: red !important;
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+
+span.brand-jumbo {
+    color: red;
+    font-weight: bolder;
+}
+
+/* Card biar Transparent */
+.card {
+    background-color: rgba(245, 245, 245, 0); /* Biar Transparent img overlay di desc nya pake 0*/
+    border: none;
+}
+
+.sys {
+    position: relative;
+    background: url(../images/bg/Artboard_3.jpg) no-repeat;
+    background-size: 100% 100%;
+    min-height: 700px;
+}
+
+.optimal {
+    position: relative;
+    background: url(../images/bg/Artboard_4.jpg) no-repeat;
+    background-size: 100% 100%;
+    min-height: 500px;
+}
+
+.chat {
+    position: relative;
+    background-color: rgb(230, 41, 8);
+    background-size: 100% 100%;
+    min-height: 250px;
+}
+
+footer {
+    position: relative;
+    background-color: rgb(230, 41, 8);
+    background-size: 100% 100%;
+    min-height: 250px;
+    color: white;
+}
+
+p.footer-brand {
+    font-weight: bold;
+    font-size: 3.3rem;
+}
+
+p.footer-normal {
+    font-size: 1rem;
+}
+
+.justify {
+    text-align: justify;
+}
+
+footer ul li {
+    list-style: none;
+}
+
+.email-footer {
+    text-decoration: none;
+    color: white;
+}
