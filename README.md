@@ -1,4 +1,4 @@
-# SYRA Promotional Website 2020
+# SYRA Profile (and Promotional) Website 2020
 
 > 70% website done, continued locally without getting pushed.
 
